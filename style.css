@@ -20,7 +20,7 @@ figcaption {
   text-align: center;
 }
 
-#featured-property + p {
+#featured-property ~ p {
   display: block;
   margin: auto;
   width: 800px;
