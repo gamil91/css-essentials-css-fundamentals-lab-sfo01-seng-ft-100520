@@ -23,6 +23,7 @@ a {
   padding-right:10px;
 }
 
-p {
-  
+p #featured-property {
+  width: 800px;
+  text-align: center;
 }
