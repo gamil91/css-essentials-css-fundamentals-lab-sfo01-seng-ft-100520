@@ -32,7 +32,8 @@ body {
 }
 
 
-#details  {
+#details ~ div {
   display: block;
+  float: left;
   
 }
