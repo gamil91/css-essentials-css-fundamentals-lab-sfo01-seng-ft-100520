@@ -32,8 +32,6 @@ body {
 }
 
 
-#details ~ div {
+#details {
   display: block;
-  float: left;
-  
 }
