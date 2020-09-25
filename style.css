@@ -20,6 +20,10 @@ figcaption {
   text-align: center;
 }
 
+p #featured-property {
+  width: 800px;
+  text-align: center;
+}
 
 body {
   width: 100%;
@@ -27,12 +31,6 @@ body {
   margin: 0;
 }
 
-
-
-p #featured-property {
-  width: 800px;
-  text-align: center;
-}
 
 #details  {
   display: block;
