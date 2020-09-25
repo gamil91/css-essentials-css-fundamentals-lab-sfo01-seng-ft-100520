@@ -28,6 +28,7 @@ p #featured-property {
   text-align: center;
 }
 
-#details {
+#details ~ div {
   display: block;
+  float: left;
 }
